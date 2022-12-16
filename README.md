@@ -10,8 +10,7 @@ I am driven and motived person, who actively searches for new things to learn as
 *   🖥️  See my portfolio at [Avanzabase](http://avanzbase.herokuapp.com/)
 *   ✉️  You can contact me at [maximilianvorbrodt@gmail.com](mailto:maximilianvorbrodt@gmail.com)
 *   🚀  I'm currently working on [PolarLift IT](http://polarlift.se/)
-*   🧠  I'm learning Reat Native
-*   🤝  I'm open to collaborating on interesting open source projects
+*   🤝  I'm contributing to interesting open source projects, such as Backstage (maintained by Spotify)
 
 ### Skills 
 <p align="left">
