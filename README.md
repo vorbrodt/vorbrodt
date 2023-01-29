@@ -7,9 +7,9 @@ Web Developer | Fullstack
 I am driven and motived person, who actively searches for new things to learn as well as improving upon what I already know. A big interest of mine is full stack development, which partially stems from my passion for creating and learning how things work. I enjoy working in teams and being able to help each other forward.
 
 *   🌍  I'm based in Linköping
-*   🖥️  Here is some of my websites [Avanzabase](http://avanzbase.herokuapp.com/)  & [RateFitness](https://ratefitness.org/) 
+*   🖥️  Here is my website [Maximilian Vorbrodt](https://maximilianvorbrodt.com/)
 *   ✉️  You can contact me at [maximilianvorbrodt@gmail.com](mailto:maximilianvorbrodt@gmail.com)
-*   🚀  I'm currently working on [PolarLift IT](http://polarlift.se/)
+*   🚀  I'm currently working at [PolarLift IT](http://polarlift.se/)
 *   🤝  I'm contributing to interesting open source projects, such as Backstage (maintained by Spotify)
 
 ### Skills 
