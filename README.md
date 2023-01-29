@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer | Fullstack
 -------------------------
 
-I am driven and motived person, who actively searches for new things to learn as well as improving upon what I already know. A big interest of mine is full stack development, which partially stems from my passion for creating and learning how things work. I enjoy working in teams and being able to help each other forward.
+I am highly driven and motived person, who actively searches for new things to learn as well as improving upon what I already know. A big interest of mine is full stack development, which partially stems from my passion for creating and learning how things work. I enjoy working in teams and being able to help each other forward.
 
 *   🌍  I'm based in Linköping
 *   🖥️  Here is my website [Maximilian Vorbrodt](https://maximilianvorbrodt.com/)
